@@ -3,5 +3,5 @@ A compilation of Jupyter Notebooks detailing the mathematics needed for ML/Deep 
 
 References:
 
-[1] Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
-[2] MATH2121 HKUST Linear Algebra Course
+- [1] Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
+- [2] MATH2121 HKUST Linear Algebra Course
