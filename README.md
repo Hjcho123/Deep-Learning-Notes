@@ -1,4 +1,4 @@
-# Deep-Learning-Math-NOTES
+# Deep-Learning-Notes
 A compilation of Jupyter Notebooks detailing the mathematics needed for ML/Deep Learning. 
 
 References:
